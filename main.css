@@ -8,6 +8,9 @@ pre { font-family: "Franklin Gothic"; font-size: 13px; font-style: normal; font-
   max-width: 480px;
   width: 100%;
 }
+a.home{
+  display: block;
+}
 .event{
   display: block;
   margin-bottom: 20px;
