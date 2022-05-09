@@ -37,3 +37,6 @@ a.home{
 #mc_embed_signup .mc-field-group label{
  margim-bottom: 10px; 
 }
+#mc_embed_signup .mc-field-group{
+ width: 100%; 
+}
