@@ -29,9 +29,13 @@ a.home{
   width: 100%;
   height: auto;
 }
-.page a.home-sm img{
+.page img.logo{
   width: 50%;
   margin-left: 25%;
+}
+.home-page img.logo{
+  width: 100%; 
+  margin-left: 0;
 }
 #mc_embed_signup{
   width: 100% !important;  
