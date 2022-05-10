@@ -49,8 +49,8 @@ a.home{
  display: none !important; 
 }
 #mc_embed_signup .mc-field-group label{
- margim-bottom: 10px; 
+ margim-bottom: 10px !important; 
 }
 #mc_embed_signup .mc-field-group{
- width: 100%; 
+ width: 100% !important; 
 }
