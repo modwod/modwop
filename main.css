@@ -4,7 +4,7 @@ p { font-family: "Franklin Gothic"; font-size: 14px; font-style: normal; font-va
 blockquote { font-family: "Franklin Gothic"; font-size: 21px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 30px; } 
 pre { font-family: "Franklin Gothic"; font-size: 13px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 18.5714px; }
 body{
- background: url('modular-system.jpg' repeat-y scroll center top cover;
+ background: url('modular-system.jpg') repeat-y scroll center top cover;
 }
 .page{
   margin: 0 auto;
