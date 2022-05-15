@@ -1,8 +1,10 @@
-h1 { font-family: "Franklin Gothic"; font-size: 32px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 51.2px; } 
-h3 { font-family: "Franklin Gothic"; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 15.4px; } 
-p { font-family: "Franklin Gothic"; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; } 
-blockquote { font-family: "Franklin Gothic"; font-size: 21px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 30px; } 
-pre { font-family: "Franklin Gothic"; font-size: 13px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 18.5714px; }
+body{ font-family: "Franklin Gothic"; font-style: normal; font-variant: normal; }
+h1 { font-size: 32px; font-weight: 400; line-height: 51px; } 
+h3 { font-size: 23px; font-weight: 500; line-height: 33px; } 
+h3 { font-size: 14px; font-weight: 700; line-height: 15px; } 
+p { font-size: 14px; font-weight: 400; line-height: 20px; } 
+blockquote { font-size: 23px; font-weight: 500; line-height: 33px; } 
+pre { font-size: 13px; font-weight: 400; line-height: 18px; }
 /*
 body{
  background: white url("modular-system.jpg") repeat-y scroll center top;
@@ -42,6 +44,7 @@ body{
 .enter-link{
   text-decoration: underline;
   color: blue;
+  text-align: center;
 }
 #mc_embed_signup{
   width: 100% !important;  
