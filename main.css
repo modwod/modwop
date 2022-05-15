@@ -12,9 +12,6 @@ body{
   max-width: 480px;
   width: 100%;
 }
-a.home{
-  display: block;
-}
 .page a{
   color: blue;
   text-decoration: none;
@@ -38,7 +35,7 @@ a.home{
   width: 50%;
   margin-left: 25%;
 }
-.home-page img.logo{
+.index-page img.logo{
   width: 100%; 
   margin-left: 0;
 }
