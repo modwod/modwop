@@ -39,6 +39,10 @@ body{
   width: 100%; 
   margin-left: 0;
 }
+.enter-link{
+  text-decoration: underline;
+  color: blue;
+}
 #mc_embed_signup{
   width: 100% !important;  
 }
