@@ -57,7 +57,7 @@ body{
   line-height: 50px;
   position: absolute;
   z-index: 100;
-  top: 0;
+  top: 50px;
 }
 #mc_embed_signup{
   width: 100% !important;  
