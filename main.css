@@ -66,10 +66,6 @@ body{
   height: 50px;
   line-height: 50px;
 }
-.page a.enter-link{
-  position: absolute;
-  z-index: 100;
-}
 #mc_embed_signup{
   width: 100% !important;  
 }
