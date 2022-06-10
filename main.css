@@ -14,6 +14,9 @@ body{
   max-width: 480px;
   width: 100%;
 }
+.index-page{
+  max-width: 568px;
+}
 .page a{
   color: blue;
   text-decoration: none;
