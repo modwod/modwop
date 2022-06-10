@@ -53,7 +53,7 @@ body{
 .index-page img.logo{
   width: 100%; 
   margin-left: 0;
-  margin-top: -50px;
+  margin-top: -120px;
   position: relative;
   z-index: 1;
 }
@@ -70,7 +70,7 @@ body{
 .page a.enter-link{
   position: absolute;
   z-index: 100;
-  top: 50px;
+  top: 120px;
 }
 #mc_embed_signup{
   width: 100% !important;  
