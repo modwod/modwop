@@ -50,6 +50,9 @@ body{
 .index-page{
   position: relative;
 }
+.index-page iframe{
+  max-width: 100%;
+}
 .index-page img.logo{
   width: 100%; 
   margin-left: 0;
