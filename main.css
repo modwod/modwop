@@ -21,6 +21,17 @@ body{
   color: blue;
   text-decoration: none;
 }
+#main-nav{
+  display: block;
+  padding: 5px;
+  list-style: none;
+  overflow: hidden;
+}
+#main-nav li{
+  padding: 0 5px;
+  display: block;
+  float: left;
+}
 .open-event{
   display: block;
   text-align: center;
