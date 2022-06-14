@@ -62,7 +62,7 @@ body{
 .index-page{
   position: relative;
 }
-.index-page iframe{
+.vid-iframe iframe{
   max-width: 100%;
 }
 .index-page img.logo{
