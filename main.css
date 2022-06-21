@@ -33,6 +33,10 @@ body{
   display: block;
   float: left;
 }
+img.half-size{
+  width: 50%;
+  margin: 0 auto;
+}
 .open-event{
   display: block;
   text-align: center;
