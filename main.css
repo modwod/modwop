@@ -33,7 +33,7 @@ body{
   display: block;
   float: left;
 }
-img.half-size{
+.page img.half-size{
   width: 50%;
   margin: 0 auto;
 }
