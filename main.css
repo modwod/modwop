@@ -83,6 +83,7 @@ pre { font-size: 13px; font-weight: 400; line-height: 18px; }
 }
 #mc_embed_signup{
   width: 100% !important;  
+  margin-bottom: 20px;
 }
 #mc_embed_signup form{
  padding: 0 !important; 
