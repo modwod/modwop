@@ -101,7 +101,7 @@ pre { font-size: 13px; font-weight: 400; line-height: 18px; }
 }
 a#modwop-twoyear-fadeimage{
   display: block;
-  background:  url(../Resonance_II_Final_sm.jpg) top center / contain no-repeat;
+  background:  url(https://modwop.com/Resonance_II_Final_sm.jpg) top center / contain no-repeat;
 }
 a#modwop-twoyear-fadeimage img{
   opacty: 1;
