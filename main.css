@@ -105,7 +105,7 @@ a#modwop-twoyear-fadeimage{
 }
 a#modwop-twoyear-fadeimage img{
   opacity: 1;
-  transition: opacity 1s;
+  transition: opacity 10s;
 }
 a#modwop-twoyear-fadeimage:hover img{
   opacity: 0;
