@@ -99,3 +99,17 @@ pre { font-size: 13px; font-weight: 400; line-height: 18px; }
 #mc_embed_signup .mc-field-group{
  width: 100% !important; 
 }
+a#modwop-twoyear-fadeimage{
+  display: block;
+  background:  url(../Resonance_II_Final_sm.jpg) top center / contain no-repeat;
+}
+a#modwop-twoyear-fadeimage img{
+  opacty: 1;
+  -webkit-animation: opacity 1s ease-out;
+  -moz-animation: opacity 1s ease-out;
+  -o-animation: opacity 1s ease-out;
+  animation: opacity 1s ease-out;
+}
+a#modwop-twoyear-fadeimage:hover img{
+  opacity: 0;
+}
