@@ -62,6 +62,9 @@ pre { font-size: 13px; font-weight: 400; line-height: 18px; }
 .index-page{
   position: relative;
 }
+.vid-iframe{
+  margin-bottom: 20px;
+}
 .vid-iframe iframe{
   max-width: 100%;
 }
